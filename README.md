@@ -6,3 +6,5 @@ This tool using some python libraries to run it you should install them
 Now let's run it! How?
 1. python creepy-scrapper.py [-i ITEM] [-w WORD_LIST] [-o FILE_OUTPUT]
 2. Thats it enjoy ;)
+3. If you want to develop this tool please ask me first <3
+4. If you have any idea for make this tool better send me to my email : amine.ziadi1002@gmail.com
