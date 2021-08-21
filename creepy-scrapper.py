@@ -120,7 +120,7 @@ def save_multi_data(data,output_file):
 Testing and ouptut section
 """
 
-#Test the shit out on the fking main function
+#The main function
 if __name__ == "__main__":
 	print("Welcome to this pretty Ceepy-Scrapper type -h for the help options")
 	if word_list:
