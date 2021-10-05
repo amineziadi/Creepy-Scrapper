@@ -8,6 +8,9 @@ Import section
 #Import argparse for tool creation
 import argparse
 
+#Import lxml to parse html content into xpaths
+import lxml
+
 #Import ernno to catch the errors
 import errno
 
